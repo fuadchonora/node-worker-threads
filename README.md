@@ -1,4 +1,4 @@
-# Node,js Worker Threads
+# Node.js Worker Threads
 
 To Demonstrate Node.js Worker Threads
 
